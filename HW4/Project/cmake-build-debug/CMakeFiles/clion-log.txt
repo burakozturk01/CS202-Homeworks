@@ -1,0 +1,4 @@
+D:\Programming_Toolbox\JBTB\apps\CLion\ch-0\213.6461.46\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/Programming_Toolbox/JBTB/apps/CLion/ch-0/213.6461.46/bin/ninja/win/ninja.exe -G Ninja D:\bilkent\3rdYear\Fall\CS202\Homeworks\HW4\Project
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/bilkent/3rdYear/Fall/CS202/Homeworks/HW4/Project/cmake-build-debug
