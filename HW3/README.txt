@@ -1,0 +1,1 @@
+- q2 makefile needed the parameter "-std=gnu++0x" to compile on dijkstra machine and q1 didn't need it. If a problem occurs for q1, maybe that parameter can solve that too.
