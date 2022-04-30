@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/bilkent/3rdYear/Fall/CS202/Homeworks/HW3/Project2/AVLTree.h
+
+D:/bilkent/3rdYear/Fall/CS202/Homeworks/HW3/Project2/analysis.cpp
+analysis.h
+D:/bilkent/3rdYear/Fall/CS202/Homeworks/HW3/Project2/analysis.h
+iostream
+-
+random
+-
+
+D:/bilkent/3rdYear/Fall/CS202/Homeworks/HW3/Project2/analysis.h
+AVLTree.h
+D:/bilkent/3rdYear/Fall/CS202/Homeworks/HW3/Project2/AVLTree.h
+
